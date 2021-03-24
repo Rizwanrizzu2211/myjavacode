@@ -2,6 +2,7 @@ class HELLO
 {
 public static void main(String[] args)
 {
+//this is riizu file
 System.out.println("hello world");
 }
 }
