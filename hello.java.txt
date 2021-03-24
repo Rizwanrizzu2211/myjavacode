@@ -4,5 +4,7 @@ public static void main(String[] args)
 {
 //this is riizu file
 System.out.println("hello world");
+System.out.println("this is rizwan);
+System.out.println("iam a test engineer");
 }
 }
